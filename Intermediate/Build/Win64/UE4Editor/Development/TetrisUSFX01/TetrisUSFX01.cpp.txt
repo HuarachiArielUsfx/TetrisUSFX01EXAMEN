@@ -1,0 +1,2 @@
+E:\EVALUCION SIS 457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+E:\EVALUCION SIS 457\TetrisUSFX01-master\Source\TetrisUSFX01\TetrisUSFX01.h
